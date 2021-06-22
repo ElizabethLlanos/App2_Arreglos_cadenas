@@ -1,0 +1,13 @@
+D:\visual_studio\App2Arreglos\App2Arreglos\bin\Debug\netcoreapp3.1\App2Arreglos.exe
+D:\visual_studio\App2Arreglos\App2Arreglos\bin\Debug\netcoreapp3.1\App2Arreglos.deps.json
+D:\visual_studio\App2Arreglos\App2Arreglos\bin\Debug\netcoreapp3.1\App2Arreglos.runtimeconfig.json
+D:\visual_studio\App2Arreglos\App2Arreglos\bin\Debug\netcoreapp3.1\App2Arreglos.runtimeconfig.dev.json
+D:\visual_studio\App2Arreglos\App2Arreglos\bin\Debug\netcoreapp3.1\App2Arreglos.dll
+D:\visual_studio\App2Arreglos\App2Arreglos\bin\Debug\netcoreapp3.1\App2Arreglos.pdb
+D:\visual_studio\App2Arreglos\App2Arreglos\obj\Debug\netcoreapp3.1\App2Arreglos.csprojAssemblyReference.cache
+D:\visual_studio\App2Arreglos\App2Arreglos\obj\Debug\netcoreapp3.1\App2Arreglos.AssemblyInfoInputs.cache
+D:\visual_studio\App2Arreglos\App2Arreglos\obj\Debug\netcoreapp3.1\App2Arreglos.AssemblyInfo.cs
+D:\visual_studio\App2Arreglos\App2Arreglos\obj\Debug\netcoreapp3.1\App2Arreglos.csproj.CoreCompileInputs.cache
+D:\visual_studio\App2Arreglos\App2Arreglos\obj\Debug\netcoreapp3.1\App2Arreglos.dll
+D:\visual_studio\App2Arreglos\App2Arreglos\obj\Debug\netcoreapp3.1\App2Arreglos.pdb
+D:\visual_studio\App2Arreglos\App2Arreglos\obj\Debug\netcoreapp3.1\App2Arreglos.genruntimeconfig.cache
